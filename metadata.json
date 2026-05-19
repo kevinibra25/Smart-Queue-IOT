@@ -1,0 +1,6 @@
+{
+  "name": "SmartQueue UX Evaluator",
+  "description": "Sistem Evaluasi User Experience pada Layanan Publik Berbasis IoT dengan Simulator Wokwi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
